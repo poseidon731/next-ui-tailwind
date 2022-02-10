@@ -1,0 +1,14 @@
+/src/**/*
+.prettierrc.js
+.gitignore
+.eslintrc
+.storybook
+tailwind.config.js
+postcss.config.js
+jest.config.js
+yarn.lock
+tsconfig.json
+.npmrc
+!/src/theme/default.ts
+.circleci
+dist/stories
